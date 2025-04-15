@@ -13,7 +13,5 @@ Pod::Spec.new do |s|
 
   s.source_files = "XMNetworking/*.{h,m}"
   s.public_header_files = "XMNetworking/*.h"
-  
-  s.dependency "AFNetworking", "~> 4.0"
 
 end
